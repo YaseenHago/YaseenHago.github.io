@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hydrology | Yaseen Hago</title>
+    <link>https://YaseenHago.github.io/tags/hydrology/</link>
+      <atom:link href="https://YaseenHago.github.io/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hydrology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <title>Hydrology</title>
+      <link>https://YaseenHago.github.io/tags/hydrology/</link>
+    </image>
+    
+    <item>
+      <title>Structural Final Design of Extension of Facilities for Sultan Qaboos University</title>
+      <link>https://YaseenHago.github.io/project/bachelor/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://YaseenHago.github.io/project/bachelor/</guid>
+      <description>&lt;p&gt;Bachelor thesis summary to be added &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
